@@ -1,4 +1,4 @@
-![logo](https://github.com/sohail60/sohail60/blob/main/bannerv1.png)
+![logo](https://github.com/sohail300/sohail300/blob/main/bannerv1.png)
 <h1 align="center">Hi 👋, I'm Md Sohail Ansari</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
@@ -11,7 +11,7 @@
 - 🌎 **Open Source** Geek
 <!--- 📝 I regularly write articles on [https://sohail10.hashnode.dev/](https://sohail10.hashnode.dev/) -->
 - 🔥 My [Leetcode](https://www.leetcode.com/sohail60) Profile
-- 📫 Reach me at **sohailatwork10@gmail.com**
+- 📫 Reach me at **sohailworks10@gmail.com**
 
 ## Tech Stack 
 [![My Skills](https://skillicons.dev/icons?i=java,html,css,js,react,nodejs,express,mongodb,firebase,bash,c,python,git,github,linux,vscode&perline=9)](https://skillicons.dev)

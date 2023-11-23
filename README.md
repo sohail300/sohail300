@@ -11,7 +11,7 @@
 - 🌎 **Open Source** Geek
 <!--- 📝 I regularly write articles on [https://sohail10.hashnode.dev/](https://sohail10.hashnode.dev/) -->
 - 🔥 My [Leetcode](https://www.leetcode.com/sohail60) Profile
-- 📫 Reach me at **sohailworks10@gmail.com**
+- 📫 Reach me at **sohailatwork10@gmail.com**
 
 ## Tech Stack 
 [![My Skills](https://skillicons.dev/icons?i=java,html,css,js,react,nodejs,express,mongodb,firebase,bash,c,python,git,github,linux,vscode&perline=9)](https://skillicons.dev)

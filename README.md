@@ -25,7 +25,7 @@
 <br>
 
 ## Connect with me
-  <a href="https://twitter.com/sohail_infinity">
+  <a href="https://twitter.com/sohail_twts">
     <img width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
   </a>&ensp;
   <a href="https://www.linkedin.com/in/md-sohail-ansari-b51201278/">

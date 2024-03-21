@@ -5,8 +5,8 @@
 <img align="right" alt="Coding" width="280" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <!-- Intro -->
-- 👨‍💻 Proficient in **Java**
 - ⚡ Full Stack **Web Developer**
+- 👨‍💻 Proficient in **Java**
 <!--- 🔐 Interested in **Cyber Security** -->
 - 🌎 **Open Source** Geek
 <!--- 📝 I regularly write articles on [https://sohail10.hashnode.dev/](https://sohail10.hashnode.dev/) -->
@@ -56,8 +56,3 @@
 </p>
 
 </br>
-
-<!-- Activity -->
-<p align="center" >
-<img width="800px" align="center" src="https://activity-graph.herokuapp.com/graph?username=sohail60&theme=redical">
-</p>

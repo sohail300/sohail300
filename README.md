@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Md Sohail Ansari</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-<img align="right" alt="Coding" width="280" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="240" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <!-- Intro -->
 - ⚡ Full Stack **Web Developer**
@@ -11,7 +11,7 @@
 - 🔥 My [Leetcode](https://www.leetcode.com/sohail60) Profile
 - 📫 Reach me at **sohailatwork10@gmail.com**
 
-## Tech Stack 
+## Tech Stack
 ### Libraries/Frameworks
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,express&perline=9)](https://skillicons.dev)
 
@@ -28,11 +28,20 @@
 [![My Skills](https://skillicons.dev/icons?i=aws,azure,vercel&perline=9)](https://skillicons.dev)
 <br>
 
-## IDE
-<span>
-<img src = "https://img.shields.io/badge/-IntelliJ%20Idea-grey?style=for-the-badge&logo=intellij%20idea">
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-</span>
+## Experience
+### GLOCYBS
+
+<img align="right" alt="Coding" width="140" src="https://media.licdn.com/dms/image/D560BAQER4ZupFZauYA/company-logo_200_200/0/1689921303802/glocybs_logo?e=1719446400&v=beta&t=QdftmFzKMz053oJk4Hwsp-Wjxh0hJebQ1RhldJ46NoI">
+
+- ⚡ Developed a Document Generator using React and ExpressJS as an internal tool to automate generation of documents like Offer Letter, Non-Disclosure agreement, Bond etc. in the organization.
+- 👨‍💻 Currently developing their company website.
+- 🌎 Crafting scalable web applications and overseeing the optimization of their website.
+<br>
+
+### STREEYA
+
+- ⚡ Designed 50+ web pages for their website establishing a strong brand identity.
+- 👨‍💻 Crafted a responsive design strategy, ensuring a seamless user experience across various devices.
 <br>
 
 ## Connect with me
@@ -47,9 +56,6 @@
   </a>
 <br>
 <br>
- 
-<!-- IDE -->
-
 
 <!-- Languages Used -->
 <p align="left">

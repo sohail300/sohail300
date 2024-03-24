@@ -7,14 +7,25 @@
 <!-- Intro -->
 - ⚡ Full Stack **Web Developer**
 - 👨‍💻 Proficient in **Java**
-<!--- 🔐 Interested in **Cyber Security** -->
 - 🌎 **Open Source** Geek
-<!--- 📝 I regularly write articles on [https://sohail10.hashnode.dev/](https://sohail10.hashnode.dev/) -->
 - 🔥 My [Leetcode](https://www.leetcode.com/sohail60) Profile
 - 📫 Reach me at **sohailatwork10@gmail.com**
 
 ## Tech Stack 
-[![My Skills](https://skillicons.dev/icons?i=java,html,css,js,react,nodejs,express,mongodb,firebase,bash,c,python,git,github,linux,vscode&perline=9)](https://skillicons.dev)
+### Libraries/Frameworks
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,express&perline=9)](https://skillicons.dev)
+
+### Languages
+[![My Skills](https://skillicons.dev/icons?i=js,ts,java,python,bash&perline=9)](https://skillicons.dev)
+
+### Databases
+[![My Skills](https://skillicons.dev/icons?i=mongodb,firebase,postgresql&perline=9)](https://skillicons.dev)
+
+### Tools
+[![My Skills](https://skillicons.dev/icons?i=linux,git,github,figma&perline=9)](https://skillicons.dev)
+
+### Deployments
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,vercel&perline=9)](https://skillicons.dev)
 <br>
 
 ## IDE

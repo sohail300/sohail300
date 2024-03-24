@@ -47,7 +47,7 @@
 
 <!-- Github stats -->
 <p align="center" >
-<img src="https://github-readme-stats.vercel.app/api?username=sohail60&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="350">
+<img src="https://github-readme-stats.vercel.app/api?username=sohail300&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="350">
 </p>
 
 <!-- Streak -->

@@ -42,17 +42,17 @@
 
 <!-- Languages Used -->
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sohail60&show_icons=true&locale=en&layout=compact&theme=aura" alt="sohail60" width="350" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sohail300&show_icons=true&locale=en&layout=compact&theme=aura" alt="sohail300" width="350" />
 </p>
 
 <!-- Github stats -->
 <p align="center" >
-<img src="https://github-readme-stats.vercel.app/api?username=sohail60&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="350">
+<img src="https://github-readme-stats.vercel.app/api?username=sohail300&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="350">
 </p>
 
 <!-- Streak -->
 <p align="right">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sohail60&theme=algolia" alt="shikhar360" width="350" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sohail300&theme=algolia" alt="sohail300" width="350" />
 </p>
 
 </br>

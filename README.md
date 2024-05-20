@@ -13,7 +13,7 @@
 
 ## Tech Stack
 ### Libraries/Frameworks
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,express&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,next,nodejs,express&perline=9)](https://skillicons.dev)
 
 ### Languages
 [![My Skills](https://skillicons.dev/icons?i=js,ts,java,python,bash&perline=9)](https://skillicons.dev)

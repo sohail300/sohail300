@@ -8,7 +8,7 @@
 - ⚡ Full Stack **Web Developer**
 - 👨‍💻 Proficient in **Java**
 - 🌎 **Open Source** Geek
-- 🔥 My [Leetcode](https://www.leetcode.com/sohail60) Profile
+- 🔥 My [Leetcode](https://www.leetcode.com/sohail_lc) Profile
 - 📫 Reach me at **sohailatwork10@gmail.com**
 
 ## Tech Stack

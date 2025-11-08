@@ -11,6 +11,7 @@
 - 🔥 My [Leetcode](https://www.leetcode.com/sohail_lc) Profile
 - 📫 Reach me at **sohailatwork10@gmail.com**
 
+<!--
 ## Tech Stack
 ### Libraries/Frameworks
 [![My Skills](https://skillicons.dev/icons?i=react,next,nodejs,express&perline=9)](https://skillicons.dev)
@@ -27,6 +28,8 @@
 ### Deployments
 [![My Skills](https://skillicons.dev/icons?i=aws,azure,vercel&perline=9)](https://skillicons.dev)
 <br>
+
+-->
 
 ## Experience
 ### GLOCYBS
@@ -51,9 +54,6 @@
   <a href="https://www.linkedin.com/in/md-sohail-ansari-b51201278/">
     <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>&ensp;
-  <a href="https://instagram.com/sohail_infinity">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
-  </a>
 <br>
 <br>
 

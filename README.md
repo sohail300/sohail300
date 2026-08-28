@@ -31,22 +31,6 @@
 
 -->
 
-## Experience
-### GLOCYBS
-
-<img align="right" alt="Coding" width="140" src="https://media.licdn.com/dms/image/D560BAQER4ZupFZauYA/company-logo_200_200/0/1689921303802/glocybs_logo?e=1719446400&v=beta&t=QdftmFzKMz053oJk4Hwsp-Wjxh0hJebQ1RhldJ46NoI">
-
-- ⚡ Developed a Document Generator using React and ExpressJS as an internal tool to automate generation of documents like Offer Letter, Non-Disclosure agreement, Bond etc. in the organization.
-- 👨‍💻 Currently developing their company website.
-- 🌎 Crafting scalable web applications and overseeing the optimization of their website.
-<br>
-
-### STREEYA
-
-- ⚡ Designed 50+ web pages for their website establishing a strong brand identity.
-- 👨‍💻 Crafted a responsive design strategy, ensuring a seamless user experience across various devices.
-<br>
-
 ## Connect with me
   <a href="https://twitter.com/sohail_twts">
     <img width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />

@@ -1,59 +1,122 @@
-<!-- ![logo](https://github.com/sohail300/sohail300/blob/main/bannerv1.png) -->
-<h1 align="center">Hi 👋, I'm Md Sohail Ansari</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+# Hey, I'm Sohail 👋
 
-<img align="right" alt="Coding" width="240" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<p align="left">
+  <img width="320" align="right" alt="ascii" src="https://github.com/user-attachments/assets/21a0dd04-096b-457d-abbb-f2f896f0731d" />
+  <!-- <img width="1850" height="1680" align="right" alt="ascii" src="https://github.com/user-attachments/assets/21a0dd04-096b-457d-abbb-f2f896f0731d" /> -->
+  <!-- <img src="YOUR_PROFILE_IMAGE_URL" width="220"  /> -->
+</p>
 
-<!-- Intro -->
-- ⚡ Full Stack **Web Developer**
-- 👨‍💻 Proficient in **Java**
-- 🌎 **Open Source** Geek
-- 🔥 My [Leetcode](https://www.leetcode.com/sohail_lc) Profile
-- 📫 Reach me at **sohailatwork10@gmail.com**
+### A Software Engineer from India.
 
-<!--
-## Tech Stack
-### Libraries/Frameworks
-[![My Skills](https://skillicons.dev/icons?i=react,next,nodejs,express&perline=9)](https://skillicons.dev)
+🌐 **Portfolio:** [sohailcodes.xyz](https://sohailcodes.xyz/)
+
+### What I Do
+
+- 💻 Build full-stack web applications
+- 🤖 Build AI-powered applications and workflows
+- ⚙️ Develop scalable backend APIs
+- ☁️ Work with cloud, Docker and deployment
+- 🚀 Build products from idea to production
+
+<br clear="right"/>
+
+---
+
+## 💼 Experience
+
+### Full Stack Engineer at Synexis AI
+`Feb 2026 to Present`
+
+- Building AI-driven full-stack applications and backend APIs for AI workflow management and space-tech products.
+- Working across frontend, backend, cloud infrastructure, analytics, and data persistence.
+
+### Junior Software Engineer at StudyHQ
+`Aug 2025 to Jan 2026`
+
+- Built and deployed a career-guidance SaaS using Spring Boot, React and MongoDB with multi-role architecture.
+- Implemented JWT authentication, secure test access, and admin, institute and student workflows.
+
+### Full Stack Developer at Sociolinq
+`Nov 2024 to Jul 2025`
+
+- Built **200+ scalable APIs** with FastAPI and Pydantic while working with **80+ database schemas**.
+- Maintained APIs with **<100ms average response time** and built modular HRMS interfaces using React, MUI and Tailwind.
+
+---
+
+## 💼 Freelance Work
+
+I've also built products and websites for clients, including:
+
+* **[StayFinder](https://stayfinder.in/)**: Villa booking platform with PostgreSQL, PhonePe payments and automatic booking expiry.
+* **[Innew](https://www.innew.dev/)**: Next.js landing page with Framer Motion.
+* **[Keanas Skin Clinic](https://www.keanasclinic.com/)**: Performance-focused landing page with tracking and custom UI.
+* **Apna Store**: Store management system with real-time inventory, POS billing and PDF invoices.
+
+---
+
+## 🛠️ Tech Stack
 
 ### Languages
-[![My Skills](https://skillicons.dev/icons?i=js,ts,java,python,bash&perline=9)](https://skillicons.dev)
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="32" height="32" style="margin-right: 8px;" alt="Java"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="32" height="32" style="margin-right: 8px;" alt="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="32" height="32" style="margin-right: 8px;" alt="TypeScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="32" height="32" style="margin-right: 8px;" alt="Python"/>
+</p>
+
+### Frontend
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="32" height="32" style="margin-right: 8px;" alt="React"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="32" height="32" style="margin-right: 8px;" alt="Next.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="32" height="32" style="margin-right: 8px;" alt="Tailwind CSS"/>
+</p>
+
+### Backend
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="32" height="32" style="margin-right: 8px;" alt="Node.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="32" height="32" style="margin-right: 8px;" alt="FastAPI"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="32" height="32" style="margin-right: 8px;" alt="Spring Boot"/>
+</p>
 
 ### Databases
-[![My Skills](https://skillicons.dev/icons?i=mongodb,firebase,postgresql&perline=9)](https://skillicons.dev)
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="32" height="32" style="margin-right: 8px;" alt="PostgreSQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="32" height="32" style="margin-right: 8px;" alt="MongoDB"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="32" height="32" style="margin-right: 8px;" alt="Firebase"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" width="32" height="32" style="margin-right: 8px;" alt="Prisma"/>
+</p>
+
+### Cloud & DevOps
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="32" height="32" style="margin-right: 8px;" alt="Docker"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="32" style="margin-right: 8px;" alt="AWS"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cloudflare/cloudflare-original.svg" width="32" height="32" style="margin-right: 8px;" alt="Cloudflare"/>
+</p>
 
 ### Tools
-[![My Skills](https://skillicons.dev/icons?i=linux,git,github,figma&perline=9)](https://skillicons.dev)
 
-### Deployments
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,vercel&perline=9)](https://skillicons.dev)
-<br>
-
--->
-
-## Connect with me
-  <a href="https://twitter.com/sohail_twts">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
-  </a>&ensp;
-  <a href="https://www.linkedin.com/in/md-sohail-ansari-b51201278/">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
-  </a>&ensp;
-<br>
-<br>
-
-<!-- Languages Used -->
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sohail300&show_icons=true&locale=en&layout=compact&theme=aura" alt="sohail300" width="350" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="32" height="32" style="margin-right: 8px;" alt="Git"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="32" height="32" style="margin-right: 8px;" alt="GitHub"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="32" height="32" style="margin-right: 8px;" alt="Figma"/>
 </p>
 
-<!-- Github stats -->
-<p align="center" >
-<img src="https://github-readme-stats.vercel.app/api?username=sohail300&theme=chartreuse-dark&include_all_commits=true" width="350">
-</p>
+---
 
-<!-- Streak -->
-<p align="right">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sohail300&theme=algolia" alt="sohail300" width="350" />
-</p>
+## 📫 Contact
 
-</br>
+<p align="left">
+  <a href="https://sohailcodes.xyz">🌐 Portfolio</a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="mailto:sohailatwork10@gmail.com">📧 Email</a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/sohailcodes/">💼 LinkedIn</a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://x.com/sohail_posts">𝕏 X</a>
+</p>
